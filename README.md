@@ -3,6 +3,12 @@
 ## Introduction
 BrewHub is a delightful React Native application that brings the joy of coffee right to your fingertips. This mobile app is designed with a beautiful UI to enhance your coffee shopping experience. With BrewHub, users can easily explore different coffee types, select their favorites, and make quick and secure purchases.
 
+
+
+https://github.com/DhruvSharma19/BrewHub/assets/112254552/ceb85eef-ef61-4739-bbdc-b89e7e2a4ceb
+
+
+
 ## Features
 - **Intuitive UI:** A visually appealing and user-friendly interface that makes navigating through coffee options a breeze.
 - **Coffee Selection:** Browse through a variety of coffee types with detailed descriptions to help you choose your perfect brew.
